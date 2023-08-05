@@ -12,5 +12,9 @@
     "example": "examples",
     "lib": "lib"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "jest": "^29.6.2"
+  }
 }

@@ -30,7 +30,6 @@
   For any questions or suggestions, feel free to reach out to me on GitHub: [StanOp09](https://github.com/StanOp09) or via email: stanleykaopare@gmail.com.
   
   ## Credits
-  - Sean Roshan
   - [NPM](https://www.npmjs.com/)
   - [NodeJS](https://nodejs.org/en)
   - [Inquirer](https://www.npmjs.com/package/inquirer)
